@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <>
-   <footer className="footer footer-center lg:ml-0 text-black rounded p-10 w-full flex flex-col md:flex-row justify-evenly items-center bg-base-300">
+   <footer className="footer footer-center lg:ml-0 text-black rounded p-10 ml-6 w-full flex flex-col md:flex-row justify-evenly items-center bg-white">
             <aside>
                    <a href="/"><div><img src="logo.jpg" alt="" className='h-24 w-36 rounded-md'/></div><hr/></a>
                    <div>Krishna Nagari Rd, Nakhate Vasti, Baderaj Colony, Rahatani, Pimpri-Chinchwad, Pune, Maharashtra 411017</div>

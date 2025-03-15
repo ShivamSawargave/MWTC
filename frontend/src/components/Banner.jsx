@@ -16,14 +16,14 @@ function Banner() {
           />
         </svg>
       </a>
-      <div className="hero bg-base-200 pt-24 min-h-screen">
+      <div className="hero  pt-24 min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src="https://cleanshala.in/wp-content/uploads/2022/08/water-tank-cleaning-service-min.png"
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div>
-            <h1 className="text-5xl text-sky-900 font-bold">
+            <h1 className="text-5xl pl-6 lg:pl-0 text-sky-900 font-bold">
               Marathwada Water Tank Cleaning (MWTC)
             </h1>
             <p className="py-6 text-xl text-sky-600">

@@ -12,7 +12,7 @@ function Feedback() {
     return (
         <>
             <div className="slider-container">
-                <div className='text-5xl pl-4 font-semibold text-sky-900 flex justify-center items-center'>Our Customers</div>
+                <div className='text-5xl pl-8 font-semibold text-sky-900 flex justify-center items-center'>Our Customers</div>
                 <Slider {...settings}>
                     <div>
                         <h3><section className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">

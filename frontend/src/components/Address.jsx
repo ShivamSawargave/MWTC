@@ -5,9 +5,10 @@ function Address() {
     <>
     <a href="https://wa.me/message/VAMZBSPLLMYNK1">
         <svg
-          className=" h-20 w-20 md:h-32 md:32 hover:scale-105  fixed bottom-0 pr-4 right-0 z-50"
+          className=" h-20 w-20 md:h-32 rounded-2xl shadow-2xl md:32 hover:scale-105  fixed bottom-0 pr-4 right-0 z-50"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 448 512"
+          
         >
           {/*!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.*/}
           <path
