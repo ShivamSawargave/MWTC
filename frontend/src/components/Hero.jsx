@@ -180,7 +180,7 @@ function Hero() {
         </div>
       </div>
 
-      <div className="relative isolate overflow-hidden mt-12 bg-sky-600 py-24 sm:py-32 mb-6">
+      <div className="relative isolate overflow-hidden mt-12 m-4 bg-sky-600 py-24 sm:py-32 mb-6">
         <div
           aria-hidden="true"
           className="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl mb-6"

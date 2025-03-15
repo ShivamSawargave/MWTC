@@ -10,6 +10,7 @@ import Contactus from '../components/Contactus'
 function Home() {
   return (
     <>
+        <div className='bg-base-300'>
         <Navbar/>
         <Banner/>
         <Hero/>
@@ -17,6 +18,7 @@ function Home() {
         <Contactus/>
         <Address/>
         <Footer/>
+        </div>
     </>
   )
 }

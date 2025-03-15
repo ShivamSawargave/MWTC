@@ -74,8 +74,9 @@ function Contactus() {
                         <form onSubmit={handleSubmit(onSubmit)} method="dialog">
                             <div className='flex items-center mt-4'>
                                 <button className='bg-sky-400 text-white rounded-md p-4 hover:bg-sky-600 duration-200'>Let's Talk</button>
-                     
+                                
                             </div>
+                            <p>For More Emergency contact on <a className='underline text-green-600' href="https://wa.me/message/VAMZBSPLLMYNK1">WhatsApp</a>, <a className='underline' href="tel:7666678527">+91 7666678527</a> and <a className='underline' href="mailto:mtankcleaning@gmail.com">mtankcleaning@gmail.com</a>  </p>
                         </form>
                     </div>
                 </div>
