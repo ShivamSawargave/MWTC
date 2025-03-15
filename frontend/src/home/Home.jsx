@@ -10,7 +10,7 @@ import Contactus from '../components/Contactus'
 function Home() {
   return (
     <>
-        <div className='bg-base-300'>
+        <div className='bg-white'>
         <Navbar/>
         <Banner/>
         <Hero/>

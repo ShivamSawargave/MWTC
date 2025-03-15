@@ -132,7 +132,7 @@ function Hero() {
           <img
             src="https://mangalfms.com/assets/images/tank-cleaning.jpg"
             alt=""
-            className="rounded-lg ml-4 lg:pt-6"
+            className="rounded-lg ml-2 lg:pt-6"
           />
         </div>
         <div>
