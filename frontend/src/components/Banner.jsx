@@ -23,7 +23,7 @@ function Banner() {
             className="max-w-sm rounded-lg shadow-2xl"
           />
           <div>
-            <h1 className="text-5xl pl-6 lg:pl-0 text-sky-900 font-bold">
+            <h1 className="lg:text-5xl text-4xl pl-6 lg:pl-0 text-sky-900 font-bold">
               Marathwada Water Tank Cleaning (MWTC)
             </h1>
             <p className="py-6 text-xl text-sky-600">

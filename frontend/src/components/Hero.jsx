@@ -59,10 +59,10 @@ function Hero() {
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
               <div className="lg:max-w-lg">
-                <h1 className="mt-2 pl-6 lg:pl-0 text-4xl font-semibold tracking-tight text-pretty text-sky-900 sm:text-5xl">
+                <h1 className="mt-2 pl-6 lg:pl-0 text-3xl lg:text-4xl font-semibold tracking-tight text-pretty text-sky-900 sm:text-5xl">
                   Your No 1 Water Tank Cleaner in Pimpri-Chinchwad
                 </h1>
-                <p className="mt-6 pl-6 lg:pl-0 text-xl/8 text-sky-600">
+                <p className="mt-6 pl-6 lg:pl-0 text-sm lg:text-xl/8 text-sky-600">
                   Cleaning your water tank can be challenging, especially with
                   the scorching heat these days. Dirty water tanks can harm your
                   health, and for busy individuals, finding time for cleaning
@@ -83,7 +83,7 @@ function Hero() {
           </div>
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="max-w-xl pl-6 lg:pl-0 text-sky-600 text-xl/8 lg:max-w-lg">
+              <div className="max-w-xl pl-6 lg:pl-0 text-sky-600 text-sm lg:text-xl/8 lg:max-w-lg">
                 <p>
                   We clean tanks of various sizes, from 500 liters up to 10,000
                   liters, using high-tech machines for thorough cleaning.
@@ -102,7 +102,7 @@ function Hero() {
       <div className="bg-white">
         <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 ml-10 lg:ml-36 py-24 sm:px-6 sm:py-32 lg:max-w-7xl  lg:px-8">
           <div>
-            <h2 className="text-4xl font-bold tracking-tight text-sky-900 sm:text-4xl">
+            <h2 className="lg:text-4xl text-3xl font-bold tracking-tight text-sky-900 sm:text-4xl">
               OUR WATER TANK CLEANING SERVICE PROCESS
             </h2>
 
@@ -137,7 +137,7 @@ function Hero() {
         </div>
         <div>
           <div className="md:pt-24 pt-6 flex flex-wrap flex-col">
-            <div className="flex justify-center items-center text-3xl md:text-5xl font-bold pb-6 pl-4">
+            <div className="flex justify-center items-center text-2xl lg:text-5xl font-bold pb-6 pl-4">
               Huge Clientele Inclusive Households, Schools, Collages & Corporate
               offices
             </div>
@@ -160,7 +160,7 @@ function Hero() {
       <div className="bg-white">
         <div className="mx-auto grid max-w-2xl grid-cols-1 items-center pl-10 lg:pl-0 gap-x-8 gap-y-16 px-4 py-24 sm:px-6 sm:py-32 lg:max-w-7xl  lg:px-8">
           <div>
-            <h2 className="text-4xl font-bold tracking-tight text-sky-900 sm:text-4xl">
+            <h2 className="text-4xl font-bold tracking-tight text-sky-900 sm:text-3xl">
               OUR SERVICE FEATURES
             </h2>
 
@@ -170,7 +170,7 @@ function Hero() {
                   key={feature.name}
                   className="border-2 bg-slate-100 border-sky-600 p-4"
                 >
-                  <dd className="mt-2 text-2xl text-black">
+                  <dd className="mt-2 lg:text-2xl text-xl text-black">
                     {feature.description}
                   </dd>
                 </div>
@@ -223,22 +223,22 @@ function Hero() {
             </div>
           </div>
           <div className="text-white">
-            <div className="p-4 text-xl">
+            <div className="p-4 lg:text-xl">
               >Experienced Team: Trained professionals with 13+ years of industry
               expertise
             </div>
-            <div className="p-4 text-xl">
+            <div className="p-4 lg:text-xl">
               >Advanced Technology: High-pressure cleaning, eco-friendly
               disinfectants, and UV sterilization
             </div>
-            <div className="p-4 text-xl">
+            <div className="p-4 lg:text-xl">
               >Affordable & Reliable: Transparent pricing with timely service
             </div>
-            <div className="p-4 text-xl">
+            <div className="p-4 lg:text-xl">
               >Hygiene & Safety First: Ensuring clean, germ-free water for your
               family and business
             </div>
-            <div className="p-6 text-2xl">
+            <div className="p-6 lg:text-2xl">
               With over 13 years of experience in the plumbing industry,
               Marathwada Tank Cleaning specializes in providing safe, hygienic,
               and efficient water tank cleaning services for residential,
