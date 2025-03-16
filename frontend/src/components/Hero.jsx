@@ -25,7 +25,7 @@ function Hero() {
     <>
 
 
-      <div className="relative isolate overflow-hidden shadow-2xl bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+      <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
         <div className="absolute inset-0 -z-10 overflow-hidden">
           <svg
             aria-hidden="true"
@@ -60,7 +60,7 @@ function Hero() {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start ">
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="lg:max-w-lg">
+              <div className="lg:max-w-lg shadow-2xl">
                 <h1 className="mt-2 pl-6 lg:pl-0 text-3xl lg:text-4xl font-semibold tracking-tight text-pretty text-sky-900 sm:text-5xl">
                   Your No 1 Water Tank Cleaner in Pimpri-Chinchwad
                 </h1>
@@ -87,7 +87,7 @@ function Hero() {
           </div>
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
             <div className="lg:pr-4">
-              <div className="max-w-xl pl-6 lg:pl-0 text-sky-600 text-sm lg:text-xl/8 lg:max-w-lg">
+              <div className="max-w-xl pl-6 lg:pl-0 shadow-2xl text-sky-600 text-sm lg:text-xl/8 lg:max-w-lg">
                 <p>
                   We clean tanks of various sizes, from 500 liters up to 10,000
                   liters, using high-tech machines for thorough cleaning.
@@ -139,7 +139,7 @@ function Hero() {
             className="rounded-lg ml-2 lg:pt-6"
           />
         </div>
-        <div className="shadow-2xl">
+        <div className="">
           <div className="md:pt-24 pt-6 flex flex-wrap flex-col">
             <div className="flex justify-center items-center text-2xl lg:text-5xl font-bold pb-6 pl-4">
               Huge Clientele Inclusive Households, Schools, Collages & Corporate
