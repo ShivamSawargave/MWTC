@@ -18,7 +18,7 @@ function Navbar() {
                 <ul className="p-2">
                   <li><a href='/Gallery'>Gallery</a></li>
                   <li><a href='/Video'>Video</a></li>
-                  <li><a href='https://g.page/r/CYO_sZcezehYEBE/review'>Plumbing</a></li>
+                  <li><a href='https://www.google.com/search?q=marathwada+plumbing+services+pimpri-chinchwad+%E0%A8%A6%E0%A9%80%E0%A8%86%E0%A8%82+%E0%A8%A4%E0%A8%B8%E0%A8%B5%E0%A9%80%E0%A8%B0%E0%A8%BE%E0%A8%82&sca_esv=4ff095ec055370c4&source=hp&ei=FVLWZ_WtC-2k2roP8JSuKA&si=APYL9bscZpjn3_6X199NmFjPBARRV0xSGKg4D2BCi30CgM2FOwhjulW7SWqQ6pzK4PJQS91h4lFljslzhQXcOzLBeeDyvAHxCFZvvZRDah3pBr4hzGXzGl_Nq-L6PAH7c8QmM4WJWazVLh9kKMwOXE_aRUNiGx5mDBHw7qlRd2E5-D3frCMCvLwzWVTbY9eWnkaOW-hhuDeS9zaCYyqXiwjw_X5UozQ1xg%3D%3D&ictx=1&ved=2ahUKEwjmw8q04I2MAxXxumMGHdZRHHYQvsQGegQIIBAk#ebo=0&lpg=cid:CgIgAQ%3D%3D'>Plumbing</a></li>
                 </ul>
               </li>
               <li className='bg-base-100  pb-10 rounded'><a href='/About' className='text-xl text-sky-600'>About</a></li>
@@ -36,7 +36,7 @@ function Navbar() {
                 <ul className="p-2">
                   <li><a href='/Gallery'>Gallery</a></li>
                   <li><a href='/Video'>Video</a></li>
-                  <li><a href='https://g.page/r/CYO_sZcezehYEBE/review'>Plumbing</a></li>
+                  <li><a href='https://www.google.com/search?q=marathwada+plumbing+services+pimpri-chinchwad+%E0%A8%A6%E0%A9%80%E0%A8%86%E0%A8%82+%E0%A8%A4%E0%A8%B8%E0%A8%B5%E0%A9%80%E0%A8%B0%E0%A8%BE%E0%A8%82&sca_esv=4ff095ec055370c4&source=hp&ei=FVLWZ_WtC-2k2roP8JSuKA&si=APYL9bscZpjn3_6X199NmFjPBARRV0xSGKg4D2BCi30CgM2FOwhjulW7SWqQ6pzK4PJQS91h4lFljslzhQXcOzLBeeDyvAHxCFZvvZRDah3pBr4hzGXzGl_Nq-L6PAH7c8QmM4WJWazVLh9kKMwOXE_aRUNiGx5mDBHw7qlRd2E5-D3frCMCvLwzWVTbY9eWnkaOW-hhuDeS9zaCYyqXiwjw_X5UozQ1xg%3D%3D&ictx=1&ved=2ahUKEwjmw8q04I2MAxXxumMGHdZRHHYQvsQGegQIIBAk#ebo=0&lpg=cid:CgIgAQ%3D%3D'>Plumbing</a></li>
                 </ul>
               </details>
             </li>
