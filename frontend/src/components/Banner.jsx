@@ -31,7 +31,7 @@ function Banner() {
             </p>
 
             {/* Open the modal using document.getElementById('ID').showModal() method */}
-            <button className="btn text-2xl bg-sky-700 text-white ml-10 p-8 py-8 lg:ml-96 flex justify-center items-center" onClick={() => document.getElementById('my_modal_2').showModal()}>For More Enquiry</button>
+            <button className="btn shadow-2xl hover:bg-sky-900 text-2xl bg-sky-500 text-white ml-10 p-8 py-8 lg:ml-96 flex justify-center items-center" onClick={() => document.getElementById('my_modal_2').showModal()}>For More Enquiry</button>
             <dialog id="my_modal_2" className="modal">
               <div className="modal-box">
                 <h3 className="font-bold text-lg"> Marathwada Water Tank Cleaning (MWTC)</h3>
