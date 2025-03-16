@@ -25,10 +25,6 @@ function Hero() {
     <>
 
 
-
-
-
-    
       <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
         <div className="absolute inset-0 -z-10 overflow-hidden">
           <svg
@@ -77,7 +73,9 @@ function Hero() {
                   you get affordable packages and quick service, ensuring you
                   have clean water without any hassle.
                 </p>
+                
               </div>
+              
             </div>
           </div>
           <div className="-mt-12 -ml-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
