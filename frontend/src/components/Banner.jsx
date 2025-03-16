@@ -61,7 +61,7 @@ function Banner() {
                         </svg>
                        
                       </a>
-                      <a className='pt-10 underline' href="tel: 7666678527">+91 7666678527</a>
+                      <a className='pt-10 underline' href="https://wa.me/message/VAMZBSPLLMYNK1">+91 7666678527</a>
                     </div>
                   </div>
                 </p>
