@@ -25,7 +25,7 @@ function Hero() {
     <>
 
 
-      <div className="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
+      <div className="relative isolate overflow-hidden shadow-2xl bg-white px-6 py-24 sm:py-32 lg:overflow-visible lg:px-0">
         <div className="absolute inset-0 -z-10 overflow-hidden">
           <svg
             aria-hidden="true"
@@ -114,7 +114,7 @@ function Hero() {
               {processes.map((processes) => (
                 <div
                   key={processes.name}
-                  className="border-2 border-sky-600 bg-sky-50 p-4"
+                  className="border-2 border-sky-600 shadow-2xl bg-sky-50 p-4"
                 >
                   <dd className="mt-2 text-2xl text-white inline-block p-2 bg-sky-600 rounded-e-box">
                     {processes.name}
@@ -131,7 +131,7 @@ function Hero() {
 
       {/**credit */}
 
-      <div className="flex md:flex-row flex-col ml-6 lg:ml-0 pb-10">
+      <div className="flex md:flex-row flex-col shadow-2xl ml-6 lg:ml-0 pb-10">
         <div>
           <img
             src="https://mangalfms.com/assets/images/tank-cleaning.jpg"
@@ -139,7 +139,7 @@ function Hero() {
             className="rounded-lg ml-2 lg:pt-6"
           />
         </div>
-        <div>
+        <div className="shadow-2xl">
           <div className="md:pt-24 pt-6 flex flex-wrap flex-col">
             <div className="flex justify-center items-center text-2xl lg:text-5xl font-bold pb-6 pl-4">
               Huge Clientele Inclusive Households, Schools, Collages & Corporate
@@ -172,7 +172,7 @@ function Hero() {
               {features.map((feature) => (
                 <div
                   key={feature.name}
-                  className="border-2 bg-slate-100 border-sky-600 p-4"
+                  className="border-2 shadow-2xl bg-slate-100 border-sky-600 p-4"
                 >
                   <dd className="mt-2 lg:text-2xl text-xl text-black">
                     {feature.description}
@@ -184,7 +184,7 @@ function Hero() {
         </div>
       </div>
 
-      <div className="relative isolate overflow-hidden mt-12 ml-8 lg:pl-0 bg-sky-600 py-24 sm:py-32 mb-6">
+      <div className="relative shadow-2xl rounded-3xl isolate overflow-hidden mt-12 ml-8 lg:pl-0 bg-sky-600 py-24 sm:py-32 mb-6">
         <div
           aria-hidden="true"
           className="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl mb-6"
