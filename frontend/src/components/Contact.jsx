@@ -20,7 +20,7 @@ function Contact() {
                 </svg>
             </a>
             <div className='pt-36 pb-12 font-bold flex justify-center text-sky-600 items-center bg-base-300 text-5xl'>
-                About Us
+                Contact Us
             </div>
             <div className='flex flex-col lg:flex-row justify-evenly'>
                 <div>
