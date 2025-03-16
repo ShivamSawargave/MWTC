@@ -17,7 +17,7 @@ function Address() {
           />
         </svg>
       </a>
-    <div className='ml-6'>
+    <div className='ml-6 shadow-2xl'>
        
         <iframe width="100%" height="600" frameBorder="0" scrolling="no" marginHeight={0} marginWidth={0} src="https://maps.google.com/maps?width=100%25&height=600&hl=en&q=Krishna%20Nagari%20Rd,%20Nakhate%20Vasti,%20Baderaj%20Colony,%20Rahatani,%20Pimpri-Chinchwad,%20Pune,%20Maharashtra%20411017+(Marathwada%20Water%20Tank%20Cleaning)&t=&z=14&ie=UTF8&iwloc=B&output=embed"><a href="https://www.gps.ie/collections/drones/">drones ireland</a></iframe>
     </div>
