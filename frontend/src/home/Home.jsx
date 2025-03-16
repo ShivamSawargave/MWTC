@@ -15,7 +15,7 @@ function Home() {
         <Banner/>
         <Hero/>
         <Feedback/>
-        <Contactus/>
+       
         <Address/>
         <Footer/>
         </div>
