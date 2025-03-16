@@ -16,7 +16,7 @@ function Banner() {
           />
         </svg>
       </a>
-      <div className="hero  pt-24 min-h-screen shadow-2xl">
+      <div className="hero  pt-24 min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src="https://cleanshala.in/wp-content/uploads/2022/08/water-tank-cleaning-service-min.png"
